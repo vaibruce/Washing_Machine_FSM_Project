@@ -64,7 +64,7 @@ This project implements a finite state machine (FSM) to model the operation of a
 ---
 
 ## Testbench Results
-![Testbench Results](#)
+![image](https://github.com/user-attachments/assets/a8281e02-59f1-4895-87c0-addcc1fba243)
 
 ---
 
