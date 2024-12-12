@@ -84,10 +84,7 @@ This project implements a finite state machine (FSM) to model the operation of a
    ```
 2. Open the project in your Verilog simulation tool.
 3. Compile the design and testbench files.
-4. Run the simulation:
-   ```bash
-   vsim -do run.do
-   ```
+4. Run the simulation in the software.
 5. Observe the simulation results.
 
 ---
