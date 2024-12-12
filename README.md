@@ -35,7 +35,8 @@ This project implements a finite state machine (FSM) to model the operation of a
   - Spin: 4 cycles
 
 #### FSM Diagram:
-![FSM Model](#)
+![Washing machine FSM](https://github.com/user-attachments/assets/db702340-bcb0-49c9-b4e4-924e41751471)
+
 
 ---
 
