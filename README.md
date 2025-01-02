@@ -92,7 +92,8 @@ This project implements a finite state machine (FSM) to model the operation of a
 ## Files in the Repository
 1. **`washing_machine.v`**: Verilog code for the FSM.
 2. **`washing_machine_tb.v`**: Testbench for the FSM.
-3. **`README.md`**: Project documentation (this file).
+3. **`Washing_machine.slx`**: Simulink model for the FSM.
+4. **`README.md`**: Project documentation (this file).
 
 ---
 
